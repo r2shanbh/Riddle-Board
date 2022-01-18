@@ -1,6 +1,6 @@
 # Riddle-Board
 
-####Setup
+###### Setup
 Go to the Frontend folder, install required modules using npm -
 ```
 cd Frontend
@@ -27,7 +27,7 @@ from app import db
 db.create_all()
 ```
 
-####Run the project
+###### Run the project
 In order to run this project in your local machine, by first running the backend using command - 
 ```
 python app.py
