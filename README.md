@@ -1,4 +1,8 @@
 # Riddle-Board
+![ScreenShot](/Screenshots/Riddle.PNG)
+
+### To edit riddle
+![ScreenShot](/Screenshots/Edit.png)
 
 ## Setup
 Go to the Frontend folder, install required modules using npm -
